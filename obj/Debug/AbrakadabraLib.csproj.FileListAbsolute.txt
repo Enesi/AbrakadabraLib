@@ -1,0 +1,13 @@
+D:\ДИПЛОМ\Project\Abrakadabra\AbrakadabraLib\bin\Debug\AbrakadabraLib.dll
+D:\ДИПЛОМ\Project\Abrakadabra\AbrakadabraLib\bin\Debug\AbrakadabraLib.pdb
+D:\ДИПЛОМ\Project\Abrakadabra\AbrakadabraLib\obj\Debug\AbrakadabraLib.dll
+D:\ДИПЛОМ\Project\Abrakadabra\AbrakadabraLib\obj\Debug\AbrakadabraLib.pdb
+D:\ДИПЛОМ\Project\Abrakadabra\AbrakadabraLib\obj\Debug\AbrakadabraLib.csprojResolveAssemblyReference.cache
+D:\ДИПЛОМ\Project\Abrakadabra\AbrakadabraLib\bin\Debug\GraphSharp.Contracts.dll
+D:\ДИПЛОМ\Project\Abrakadabra\AbrakadabraLib\bin\Debug\GraphSharp.Controls.dll
+D:\ДИПЛОМ\Project\Abrakadabra\AbrakadabraLib\bin\Debug\GraphSharp.dll
+D:\ДИПЛОМ\Project\Abrakadabra\AbrakadabraLib\bin\Debug\Microsoft.Contracts.dll
+D:\ДИПЛОМ\Project\Abrakadabra\AbrakadabraLib\bin\Debug\QuickGraph.dll
+D:\ДИПЛОМ\Project\Abrakadabra\AbrakadabraLib\bin\Debug\WPFExtensions.dll
+D:\ДИПЛОМ\Project\Abrakadabra\AbrakadabraLib\bin\Debug\GraphSharp.pdb
+D:\ДИПЛОМ\Project\Abrakadabra\AbrakadabraLib\bin\Debug\GraphSharp.Contracts.pdb
